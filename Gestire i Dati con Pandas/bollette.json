@@ -1,0 +1,22 @@
+[
+  {
+    "Bollette": "GAS",
+    "Prezzo": "100,00 €",
+  },
+  {
+    "Bollette": "ACQUA",
+    "Prezzo": "200,00 €",
+  },
+  {
+    "Bollette": "LUCE",
+    "Prezzo": "100,00 €",
+  },
+  {
+    "Bollette": "INTERNET",
+    "Prezzo": "25,00 €",
+  },
+  {
+    "Bollette": "TOTALE",
+    "Prezzo": "425,00 €",
+  }
+]
